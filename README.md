@@ -1,5 +1,5 @@
 # smart_home
-This is a (unfinished) IoT smart home project that I worked on during the COVID-19 pandemic, specifically during the first lockdown in Spain (March 20 - May-20).
+This is a (unfinished) IoT smart home project that I worked on during the COVID-19 pandemic, specifically during the first lockdown in Spain (March 20 - May-20). Check out the images and demo videos!
 
 It consists of an IoT server using that uses HTTP and MQTT to communicate with IoT devices and a mobile application (iOS). For this, I built:
 - A javascript server that handles MQTT communication from devices to talk to your IoT smart home devices via MQTT.
